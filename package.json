@@ -1,0 +1,29 @@
+{
+  "name": "yahoo-stocks",
+  "version": "0.0.0",
+  "description": "A module to use Yahoo! Finance APIs, especially related to stock data.",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/ahmedfarooki/node-yahoo-stocks"
+  },
+  "keywords": [
+    "finance",
+    "stocks",
+    "yahoo",
+    "stocks",
+    "quotes",
+    "market",
+    "stock",
+    "market"
+  ],
+  "author": "Ahmed Farooki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ahmedfarooki/node-yahoo-stocks/issues"
+  },
+  "homepage": "https://github.com/ahmedfarooki/node-yahoo-stocks"
+}
