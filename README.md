@@ -1,4 +1,4 @@
-# Yahoo Stocks
+Yahoo Stocks
 ============
 
 This library enables you to use stock and financial data from the Yahoo Finance APIs to retrieve stock and financial data. 
